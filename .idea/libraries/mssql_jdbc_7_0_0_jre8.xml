@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mssql-jdbc-7.0.0.jre8">
+    <CLASSES>
+      <root url="jar://E:/综合/学习资料2020/JAVA/网络课设/sqljdbc_7.0.0.0_chs/sqljdbc_7.0/chs/mssql-jdbc-7.0.0.jre8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
